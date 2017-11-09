@@ -12,7 +12,7 @@
 // Don't have a Chibi Chip? Visit https://chibitronics.com/shop/ and get one now!
 
 void setup() {
-   ;
+   pinMode(0, OUTPUT);
 }
 
 void loop() {
